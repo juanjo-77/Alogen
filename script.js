@@ -18,4 +18,4 @@
 
   window.addEventListener('scroll', () => {
     document.getElementById('main-nav').style.boxShadow = window.scrollY > 60 ? '0 4px 30px rgba(0,0,0,0.07)' : 'none';
-  });
+  }); 
